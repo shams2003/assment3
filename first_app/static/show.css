@@ -1,0 +1,9 @@
+.cards{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+}
+.line{
+    display: flex;
+    justify-content: center;
+}

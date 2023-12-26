@@ -1,0 +1,10 @@
+.h1{
+    display: flex;
+    padding-left: 50px;
+    justify-content: center;
+    gap: 500px;
+    padding-top: 50px;
+}
+.cards{
+    display: flex;
+}
